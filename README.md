@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Eshaan! 👋
 
-<!--
-**EshaanKaushik/EshaanKaushik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a third-grade student who loves learning and exploring new ideas. I'm learning about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Coding and building small projects
+- 🤖 Artificial intelligence (AI)
+- ➗ Math and problem-solving
+- 🔬 Science and how the world works
+
+I'm excited to keep learning, experimenting, and growing with technology. This profile will be a place to share the projects I make along the way.
+
+Thanks for visiting! 🚀
